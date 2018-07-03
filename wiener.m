@@ -1,4 +1,4 @@
-% Wiener process
+% Wiener process 
 %
 % INPUT: T - time steps, N - precision, b- Amplitude
 % OUTPUT: Wiener process as TxN matrix
